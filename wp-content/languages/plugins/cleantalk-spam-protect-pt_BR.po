@@ -1,0 +1,196 @@
+# Translation of Plugins - Spam protection, AntiSpam, FireWall by CleanTalk - Stable (latest release) in Portuguese (Brazil)
+# This file is distributed under the same license as the Plugins - Spam protection, AntiSpam, FireWall by CleanTalk - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-01-12 21:12:36+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Plugins - Spam protection, AntiSpam, FireWall by CleanTalk - Stable (latest release)\n"
+
+#: inc/cleantalk-admin.php:396
+msgid "FAQ"
+msgstr "FAQ"
+
+#: inc/cleantalk-admin.php:398 inc/cleantalk-admin.php:938
+#: inc/cleantalk-admin.php:1051 inc/cleantalk-settings.php:1109
+msgid "Support"
+msgstr "Suporte"
+
+#: inc/cleantalk-admin.php:338 inc/cleantalk-admin.php:903
+#: inc/cleantalk-admin.php:1034
+msgid "Settings"
+msgstr "Configurações"
+
+#: lib/Cleantalk/ApbctWP/FindSpam/ListTable/Comments.php:118
+msgid "Y/m/d"
+msgstr "Y/m/d"
+
+#: inc/cleantalk-widget.php:91 inc/cleantalkWidget.php:104
+msgid "Title:"
+msgstr "Título:"
+
+#: inc/cleantalk-settings.php:1133 inc/cleantalk-settings.php:1152
+msgid "Save Changes"
+msgstr "Salvar mudanças"
+
+#: lib/Cleantalk/ApbctWP/FindSpam/ListTable/Comments.php:35
+msgid "Author"
+msgstr "Autor"
+
+#. Author of the plugin
+msgid "СleanTalk <welcome@cleantalk.org>"
+msgstr "СleanTalk <welcome@cleantalk.org>"
+
+#: lib/Cleantalk/ApbctWP/FindSpam/ListTable/Users.php:37
+msgid "Username"
+msgstr "Usuário"
+
+#: inc/cleantalk-public-integrations.php:1128 inc/cleantalk-public.php:752
+#: inc/cleantalk-public.php:805
+msgid "Spam protection"
+msgstr "Proteção contra spam"
+
+#: lib/Cleantalk/ApbctWP/FindSpam/ListTable/Comments.php:172
+msgid "View Post"
+msgstr "Ver post"
+
+#: inc/cleantalk-widget.php:74 inc/cleantalkWidget.php:87
+msgid "blocked by"
+msgstr "bloqueado por"
+
+#: inc/cleantalk-widget.php:35 inc/cleantalk-widget.php:86
+#: inc/cleantalkWidget.php:37 inc/cleantalkWidget.php:99
+msgid "Spam blocked"
+msgstr "Spam bloqueado"
+
+#: inc/cleantalk-settings.php:161
+msgid "Advanced settings"
+msgstr "Configurações avançadas"
+
+#: inc/cleantalk-find-spam.php:10
+msgid "Find spam users"
+msgstr "Encontrar spammers"
+
+#: lib/Cleantalk/ApbctWP/FindSpam/ListTable/UsersScan.php:74
+msgid "Delete all users from list"
+msgstr "Excluir todos os usuários da lista"
+
+#: inc/cleantalk-settings.php:1497
+msgid "Access key"
+msgstr "Chave de acesso"
+
+#: inc/cleantalk-settings.php:1430
+msgid "Protection is active"
+msgstr "Proteção ativa"
+
+#: inc/cleantalk-widget.php:25 inc/cleantalkWidget.php:27
+msgid "CleanTalk widget"
+msgstr "Widget do CleanTalk"
+
+#: inc/cleantalk-widget.php:22 inc/cleantalkWidget.php:25
+msgid "CleanTalk Widget"
+msgstr "Widget do CleanTalk"
+
+#: inc/cleantalk-find-spam.php:9 inc/cleantalk-find-spam.php:32
+msgid "Check for spam"
+msgstr "Verificar spam"
+
+#: lib/Cleantalk/ApbctWP/AdminNotices.php:189
+msgid "next year"
+msgstr "próximo ano"
+
+#: inc/cleantalk-public.php:1057
+msgid "Attention, please!"
+msgstr "Atenção!"
+
+#: inc/cleantalk-admin.php:856 inc/cleantalk-settings.php:136
+msgid "SpamFireWall"
+msgstr "SpamFireWall"
+
+#: inc/cleantalk-public-integrations.php:2576
+msgid "Comment approved. Anti-spam by CleanTalk."
+msgstr "Comentário aprovado. Anti-spam da CleanTalk."
+
+#: inc/cleantalk-admin.php:553 inc/cleantalk-find-spam.php:33
+msgid "Find spam comments"
+msgstr "Encontrar comentários de spam"
+
+#: lib/Cleantalk/ApbctWP/FindSpam/ListTable/Comments.php:116
+msgid "Submitted on <a href=\"%1$s\">%2$s at %3$s</a>"
+msgstr "Enviado em <a href=\"%1$s\">%2$s às %3$s</a>"
+
+#: lib/Cleantalk/ApbctWP/AdminNotices.php:192
+msgid "Please renew your anti-spam license for %s."
+msgstr "Renove sua licença de anti-spam para %s."
+
+#: lib/Cleantalk/ApbctWP/AdminNotices.php:184
+msgid "RENEW ANTI-SPAM"
+msgstr "RENOVAR O ANTI-SPAM"
+
+#: lib/Cleantalk/ApbctWP/AdminNotices.php:159
+msgid "%s trial period ends, please upgrade to %s!"
+msgstr "Fim do período experimental do %s, atualize para %s!"
+
+#: lib/Cleantalk/ApbctWP/AdminNotices.php:123
+msgid "Unable to get Access key automatically: %s"
+msgstr "Não é possível obter a chave de acesso automaticamente: %s"
+
+#: inc/cleantalk-settings.php:1047
+msgid "Use s@cleantalk.org to test plugin in any WordPress form."
+msgstr "Use s@cleantalk.org para testar o plugin em qualquer formulário do WordPress."
+
+#: inc/cleantalk-settings.php:1042
+msgid "Plugin Homepage at"
+msgstr "Site do plugin em"
+
+#: inc/cleantalk-settings.php:138
+msgid "This option allows to filter spam bots before they access website. Also reduces CPU usage on hosting server and accelerates pages load time."
+msgstr "Esta opção permite filtrar robôs de spam antes que acessem o site. Também reduz o uso de CPU no servidor de hospedagem e acelera o tempo de carregamento das páginas."
+
+#: inc/cleantalk-settings.php:332
+msgid "Delete spam comments older than %d days."
+msgstr "Excluir comentários de spam com mais de %d dias."
+
+#: inc/cleantalk-settings.php:1084
+msgid "Click here to get anti-spam statistics"
+msgstr "Clique aqui para obter as estatísticas do anti-spam"
+
+#: inc/cleantalk-settings.php:207
+msgid "Protect external forms"
+msgstr "Proteger formulários externos"
+
+#: inc/cleantalk-settings.php:390
+msgid "Use AJAX for JavaScript check"
+msgstr "Usar o AJAX para verificação por JavaScript"
+
+#: inc/cleantalk-settings.php:575
+msgid "Show statistics in admin bar"
+msgstr "Mostrar estatísticas na barra administrativa"
+
+#: inc/cleantalk-settings.php:414
+msgid "Check all post data"
+msgstr "Verificar todos os dados do post"
+
+#: inc/cleantalk-settings.php:189 inc/cleantalk-settings.php:1444
+msgid "Custom contact forms"
+msgstr "Formulários de contato personalizados"
+
+#: inc/cleantalk-settings.php:182 inc/cleantalk-settings.php:1440
+msgid "Contact forms"
+msgstr "Formulários de contato"
+
+#: inc/cleantalk-settings.php:178
+msgid "Comments form"
+msgstr "Formulário de comentários"
+
+#: inc/cleantalk-settings.php:1432
+msgid "Registration forms"
+msgstr "Formulários de registro"
+
+#: inc/cleantalk-settings.php:330
+msgid "Automatically delete spam comments"
+msgstr "Excluir automaticamente comentários de spam"
